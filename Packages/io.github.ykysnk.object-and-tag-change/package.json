@@ -1,0 +1,16 @@
+{
+  "name": "io.github.ykysnk.object-and-tag-change",
+  "displayName": "Object And Tag Change",
+  "version": "0.0.1",
+  "description": "Quick change object to editor only and turn off",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "SOL740,yukiyosanako / \u3086\u304d\u3088\u3055\u306a\u3053",
+    "email": "github.qszdy@aleeas.com",
+    "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "L:\\VRChatProjects\\VPM.ObjectAndTagChange\\Packages\\io.github.ykysnk.object-and-tag-change"
+}
