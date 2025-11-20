@@ -1,7 +1,7 @@
 {
   "name": "io.github.ykysnk.object-and-tag-change",
   "displayName": "Object And Tag Change",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quick change object to editor only and turn off",
   "gitDependencies": {},
   "vpmDependencies": {},

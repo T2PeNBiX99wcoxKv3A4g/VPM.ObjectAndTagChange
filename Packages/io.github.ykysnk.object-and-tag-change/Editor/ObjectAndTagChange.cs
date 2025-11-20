@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UnityEditor;
-using UnityEngine;
 
 // Refs: https://booth.pm/ja/items/6475280
 namespace io.github.ykysnk.ObjectAndTagChange.Editor;
@@ -23,10 +22,7 @@ public class SetObjectAndTag : EditorWindow
         var selectedObjects = Selection.gameObjects;
 
         if (selectedObjects.Length < 1)
-        {
-            Debug.LogWarning("オブジェクトが選択されていません。");
             return;
-        }
 
         foreach (var obj in selectedObjects)
         {
