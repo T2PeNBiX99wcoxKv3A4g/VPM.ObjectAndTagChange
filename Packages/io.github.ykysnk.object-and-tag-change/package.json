@@ -1,8 +1,8 @@
 {
   "name": "io.github.ykysnk.object-and-tag-change",
-  "displayName": "Object And Tag Change",
-  "version": "0.0.3",
-  "description": "Quick change object to editor only and turn off",
+  "displayName": "Object And Tag Change (Deprecated)",
+  "version": "0.0.4",
+  "description": "Quick change object to editor only and turn off (Include in YKYToolkit)",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
